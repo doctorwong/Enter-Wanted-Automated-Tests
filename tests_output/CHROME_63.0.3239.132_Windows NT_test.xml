@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="52"
+            failures="1"
+            tests="7">
+
+  <testsuite name="test"
+    errors="52" failures="1" hostname="" id="" package="test" skipped="6"
+    tests="7" time="13.99" timestamp="Thu, 18 Jan 2018 23:57:04 GMT">
+  
+    <testcase name="Valid Inputs" classname="test" time="13.99" assertions="18">  <failure message="Testing if value of &lt;input[name=&#34;hdrInput&#34;]&gt; equals: &#34;1234567890&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:18:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;mkeInput&#34;]&gt; equals: &#34;foo&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:19:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;oriInput&#34;]&gt; equals: &#34;abcdefg01&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:20:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;namInput&#34;]&gt; equals: &#34;John Doe&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:21:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;sexInput&#34;]&gt; equals: &#34;M&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:22:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;racInput&#34;]&gt; equals: &#34;W&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:23:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;hgtInput&#34;]&gt; equals: &#34;510&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:24:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;wgtInput&#34;]&gt; equals: &#34;200&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:25:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;haiInput&#34;]&gt; equals: &#34;black&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:26:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;offInput&#34;]&gt; equals: &#34;speeding&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:27:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;dowInput&#34;]&gt; equals: &#34;10102000&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:28:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;olnInput&#34;]&gt; equals: &#34;12345678901234567890&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:29:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;olsInput&#34;]&gt; equals: &#34;NY&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:30:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;olyInput&#34;]&gt; equals: &#34;11112000&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:31:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;licInput&#34;]&gt; equals: &#34;12345678&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:32:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;lisInput&#34;]&gt; equals: &#34;IL&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:33:19)</failure>
+
+      <failure message="Testing if value of &lt;input[name=&#34;liyInput&#34;]&gt; equals: &#34;2000&#34;. Element or attribute could not be located.">    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:16:24)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:34:19)</failure>
+
+      <failure message="Expected element &lt;p[id=&#34;validHeader&#34;]&gt; text to equal: &#34;Valid&#34; - element was not found">    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:41:24)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Example Test / I can put data in the fields and generate a result]:
+
+  TypeError: Cannot read property &#39;minimumEntry&#39; of undefined
+    at Object.I can put data in the fields and generate a result (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\exampleTest.js:14:45)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+ERROR: Unable to locate element: &#34;input[name=&#34;hdrInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:18:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;hdrInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:18:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;hdrInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;mkeInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:19:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;mkeInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:19:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;mkeInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;oriInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:20:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;oriInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:20:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;oriInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;namInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:21:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;namInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:21:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;namInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;sexInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:22:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;sexInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:22:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;sexInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;racInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:23:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;racInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:23:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;racInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;hgtInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:24:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;hgtInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:24:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;hgtInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;wgtInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:25:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;wgtInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:25:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;wgtInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;haiInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:26:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;haiInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:26:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;haiInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;offInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:27:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;offInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:27:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;offInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;dowInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:28:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;dowInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:28:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;dowInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;olnInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:29:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;olnInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:29:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;olnInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;olsInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:30:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;olsInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:30:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;olsInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;olyInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:31:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;olyInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:31:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;olyInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;licInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:32:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;licInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:32:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;licInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;lisInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:33:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;lisInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:33:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;lisInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;input[name=&#34;liyInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:14:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:34:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;liyInput&#34;]&#34; using: css selector
+    at Object.enterValue (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\test_data\test_functions.js:15:17)
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:34:19)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+ERROR: Unable to locate element: &#34;input[name=&#34;liyInput&#34;]&#34; using: css selector
+    at F.command (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\api\assertions\value.js:47:21)
+    at F.module.exports.BaseAssertion._scheduleAssertion (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:87:17)
+    at F.module.exports.BaseAssertion._executeCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:82:17)
+    at AssertionInstance.commandFn [as _commandFn] (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\assertion.js:180:21)
+    at AsyncTree.runCommand (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:154:30)
+    at AsyncTree.runChildNode (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:114:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:80:10)
+    at AsyncTree.walkUp (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:97:8)
+    at AsyncTree.walkDown (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:90:12)
+    at AsyncTree.traverse (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\core\queue.js:73:8)
+ERROR: Unable to locate element: &#34;button[id = &#34;saveBtn&#34;]&#34; using: css selector
+    at Object.Valid Inputs (C:\devmtn\enter-wanted-auto\qa-enter-wanted\nightwatch\tests\test.js:37:17)
+    at Module.call (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\Users\DoctaWong\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:125:13)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    </system-err>
+  
+
+  
+    
+    <testcase
+      name="Too Long" classname="test">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Blank Forms" classname="test">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Too short" classname="test">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Invalid Data" classname="test">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="If I put in good data, but only one of a set of optional fields, I get an error" classname="test">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Clear button functionality check" classname="test">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
